@@ -6,6 +6,10 @@
 
 ## Layout mobile 
 
+<div>
+ <img src="https://i.pinimg.com/564x/00/9f/88/009f885ff52d84bb14cc1924d1faa755.jpg" alt="calculadora"/>
+</div>
+
 ## Diagrama de classe 
 ## Banco de dados
 ## Técnologias utilizadas 
@@ -16,7 +20,7 @@
 ## IDE
 - XML (Activity)
 ## APK do projeto
-
+- <a src="https://drive.google.com/file/d/1vj94au5-QoWvLoFXIWb9d4SKOjJogkOV/view?usp=share_link"> APK do aplicativo </a>
 ## Como instalar 
 - 1° Na tela de boas-vindas do Android Studio, clique em Profile or debug APK;
   Se já tiver um projeto aberto, clique em File > Profile or Debug APK na barra de menus.
