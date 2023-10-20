@@ -23,7 +23,7 @@
   Se já tiver um projeto aberto, clique em File > Profile or Debug APK na barra de menus.
 - 2° Na caixa de diálogo aberta, selecione o APK que você quer importar para o Android Studio.
 - 3° Clique em OK.
-- 
+  
 ## Pré requisitos 
 - SO | Mínimo: Microsoft Windows 8 de 64 bits	| Recomendado: Versão de 64 bits mais recente do Windows
 - RAM	 | Mínimo: 8 GB de RAM	| Recomendado: 16 GB de RAM ou mais
